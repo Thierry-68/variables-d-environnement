@@ -2,7 +2,9 @@
 
 ## Un peut d'histoire
 
-Comme indiquer sur [Wikipedia]("https://fr.wikipedia.org/wiki/Variable_d'environnement"), sur windows c'est un élément majeur pour accéder à l'ensemble des programmes de votre ordinateur. Il existe depuis les premières versions Dos et Windows.
+Comme indiquer sur [Wikipedia](https://fr.wikipedia.org/wiki/Variable_d'environnement),
+
+ sur windows c'est un élément majeur pour accéder à l'ensemble des programmes de votre ordinateur. Il existe depuis les premières versions Dos et Windows.
 
 ## En ligne de commande
 
@@ -43,5 +45,6 @@ Vous avez tout à fait la possibilité de rajouter le chemin dans votre console 
 2. Saisissez le chemin de l'exécutable ("point EXE") auquel vous souhaitez accéder à partir de n'importe quel répertoire de votre ordinateur.
 
 Redémarer l'ordinateur et c'est prét. Il ne reste plus qu'à se mettre autour de la table pour consommer.
+
 
 
