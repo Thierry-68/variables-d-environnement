@@ -3,12 +3,11 @@
 ## Un peut d'histoire
 
 Comme indiquer sur [Wikipedia](https://fr.wikipedia.org/wiki/Variable_d'environnement),
-
  sur windows c'est un élément majeur pour accéder à l'ensemble des programmes de votre ordinateur. Il existe depuis les premières versions Dos et Windows.
 
 ## En ligne de commande
 
-Vous avez tout à fait la possibilité de rajouter le chemin dans votre console préférée (pour moi cmder) comme indiquer sur Wikipédia mais chaque fois que vous refermerez votre console et encore plus window, vous perdrez le changement effectué et donc le chemin de votre exécutable. C'est pour cela que je vais vous montrer comment l'intégrer dans l'initialisation de votre windows.
+Vous avez tout à fait la possibilité de rajouter le chemin dans votre console préférée (pour moi cmder) comme indiquer sur [Wikipedia](https://fr.wikipedia.org/wiki/Variable_d'environnement) mais chaque fois que vous refermerez votre console et encore plus window, vous perdrez le changement effectué et donc le chemin de votre exécutable. C'est pour cela que je vais vous montrer comment l'intégrer dans l'initialisation de votre windows.
 
 ## Windows et la gestion des variables d'environnement système
 
